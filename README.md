@@ -12,5 +12,6 @@ Link to deploy app
 
 <h3>Images</h3>
 ![Workout Dashboard](https://user-images.githubusercontent.com/58242373/80641929-9c643700-8a33-11ea-9fcd-becdc5efc936.jpg)
+![Tracker](https://user-images.githubusercontent.com/58242373/80641954-a4bc7200-8a33-11ea-9bf9-4142aa016bd4.jpg)
 
 
