@@ -8,7 +8,7 @@ A web application that allows its users to track their workouts. A consumer will
 This is a NoSQL and Express web application that runs using Node.JS, Express.JS, and MongoDB. Please install the prerequisite software prior to attempting to run.
 
 <h3>Deployed</h3>
-Link to deploy app
+Link to deploy app https://arobl034.github.io/FitnessTracker.github.io/.
 
 <h3>Images</h3>
 ![Workout Dashboard](https://user-images.githubusercontent.com/58242373/80641929-9c643700-8a33-11ea-9fcd-becdc5efc936.jpg)
