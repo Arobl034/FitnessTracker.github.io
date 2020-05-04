@@ -1,4 +1,4 @@
-<h2><b>FitnessTracker</b></h2>
+<h2><b>FitnessTracker</b></h2>:weight_lifting:
 Created Mongo database with a Mongoose schema and handle routes with Express.
 
 <h3>Introduction</h3>
